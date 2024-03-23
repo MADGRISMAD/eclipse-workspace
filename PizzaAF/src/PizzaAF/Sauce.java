@@ -1,0 +1,6 @@
+package PizzaAF;
+
+public interface Sauce {
+	public String toString();
+
+}
